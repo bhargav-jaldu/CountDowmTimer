@@ -1,5 +1,6 @@
 // Credit: Mateusz Rybczonec
 
+console.log("hello ACM")
 const FULL_DASH_ARRAY = 283;
 const WARNING_THRESHOLD = 10;
 const ALERT_THRESHOLD = 5;
